@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Visitor Count](https://count.getloli.com/@:1JI0O?name=%3A1JI0O&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <!--
 **1JI0O/1JI0O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
