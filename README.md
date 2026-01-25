@@ -2,6 +2,10 @@
 
 ![Visitor Count](https://count.getloli.com/@:1JI0O?name=%3A1JI0O&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+- 👋 I'm a student of [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), majoring in Software Engineering.
+- 🌱 I’m currently learning robotics and machine learning.
+- 📧 Contact me at qhx_sjtu@sjtu.edu.cn
+
 <!--
 **1JI0O/1JI0O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
