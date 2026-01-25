@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://count.getloli.com/@:1JI0O?name=%3A1JI0O&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-- 👋 I'm @1JI0O, an **undergraduate student** majoring in Software Engineering at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/).
+- 👋 I'm @1JI0O, an **undergraduate student** majoring in **Software Engineering** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/).
 - 🌱 I’m currently focused on **Robotic**s and **Machine Learning**.
 - 📧 Contact me at qhx_sjtu@sjtu.edu.cn
 
