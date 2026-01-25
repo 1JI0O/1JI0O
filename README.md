@@ -4,6 +4,7 @@
 
 - 👋 I'm @1JI0O, an **undergraduate student** majoring in **Software Engineering** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/).
 - 🌱 I’m currently focused on **Robotic**s and **Machine Learning**.
+- ⚡ My Digital Garden : [1ji0o's Blog](https://1ji0o.github.io/).
 - 📧 Contact me at qhx_sjtu@sjtu.edu.cn
 
 <!--
